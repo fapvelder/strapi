@@ -1,0 +1,18 @@
+{
+  "kind": "singleType",
+  "collectionName": "fdgs",
+  "info": {
+    "singularName": "fdg",
+    "pluralName": "fdgs",
+    "displayName": "fdg"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sfd": {
+      "type": "string"
+    }
+  }
+}
